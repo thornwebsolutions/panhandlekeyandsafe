@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  :root {
+    /* Primary Colors */
+    --brand-navy: #3B496E;
+    --brand-red: #C6462D;
+    --brand-off-white: #FEF6EB;
+
+    /* Secondary Colors */
+    --brand-navy-dark: #2A3550;
+    --brand-navy-light: #5A6A8A;
+    --brand-red-dark: #A23823;
+    --brand-red-light: #F9E8E4;
+    --brand-light-blue: #E8ECF2;
+    --brand-charcoal: #3D3D3D;
+    --brand-white: #FFFFFF;
+  }
+
+  body {
+    color: var(--brand-charcoal);
+    background-color: var(--brand-navy);
+  }
+}
+
+@layer components {
+  /* Primary button style with brand red */
+  .btn-brand {
+    @apply bg-brand-red text-white hover:bg-brand-red-dark transition-colors;
+  }
+
+  /* Secondary button style with brand navy */
+  .btn-brand-secondary {
+    @apply bg-brand-navy text-white hover:bg-brand-navy-dark transition-colors;
+  }
+
+  /* Section background alternation helpers */
+  .section-off-white {
+    @apply bg-brand-off-white;
+  }
+
+  .section-white {
+    @apply bg-brand-white;
+  }
+
+  .section-light-blue {
+    @apply bg-brand-light-blue;
+  }
+
+  .section-navy {
+    @apply bg-brand-navy text-brand-off-white;
+  }
+
+  .section-dark {
+    @apply bg-brand-navy-dark text-brand-off-white;
+  }
+
+  .section-red {
+    @apply bg-brand-red text-white;
+  }
+
+  .section-red-light {
+    @apply bg-brand-red-light;
+  }
+}

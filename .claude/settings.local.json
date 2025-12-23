@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-ChildItem -Recurse -Force | Select-Object FullName | head -100\")",
+      "Bash(powershell -Command \"Get-ChildItem -Path ''.\\.claude'' -Recurse | Select-Object FullName\")",
+      "WebFetch(domain:www.panhandlekeyandsafe.com)",
+      "WebFetch(domain:react-docs.relume.io)",
+      "Bash(xcopy:*)",
+      "Bash(powershell -Command \"New-Item -ItemType Directory -Force -Path ''C:\\Users\\ChrisThorn\\source\\repos\\panhandlekeyandsafe\\src\\components\\services'' | Out-Null; Copy-Item -Path ''C:\\Users\\ChrisThorn\\source\\repos\\panhandlekeyandsafe\\services\\components\\*'' -Destination ''C:\\Users\\ChrisThorn\\source\\repos\\panhandlekeyandsafe\\src\\components\\services'' -Recurse -Force\")",
+      "Bash(powershell:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm install:*)",
+      "Bash(wc:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
