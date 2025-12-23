@@ -48,7 +48,7 @@ export function Navbar() {
       <div className="mx-auto flex size-full max-w-full items-center justify-between">
         <a href="/" style={{ padding: "0 0.5rem" }}>
           <img
-            src="/images/svg-logo.svg"
+            src="/images/new-logo.webp"
             alt="Panhandle Key & Safe Logo"
             className="w-[60px] md:w-[75px]"
           />

@@ -9,7 +9,7 @@ export function Footer() {
             <div className="mb-6 md:mb-8">
               <a href="/">
                 <img
-                  src="/images/svg-logo.svg"
+                  src="/images/new-logo.webp"
                   alt="Panhandle Key & Safe Logo"
                   className="inline-block"
                   width={125}
