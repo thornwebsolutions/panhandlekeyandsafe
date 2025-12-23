@@ -30,8 +30,8 @@ export function Layout357() {
                         complicated.
                       </p>
                       <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-                        <Button title="Learn" href="/automotive-locksmith">
-                          Learn
+                        <Button title="Automotive Services" href="/automotive-locksmith">
+                          Automotive Services
                         </Button>
                       </div>
                     </div>
@@ -75,8 +75,8 @@ export function Layout357() {
                         rekeying, and emergency services. We protect what matters.
                       </p>
                       <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-                        <Button title="Learn" href="/residential-locksmith">
-                          Learn
+                        <Button title="Residential Services" href="/residential-locksmith">
+                          Residential Services
                         </Button>
                       </div>
                     </div>
@@ -118,8 +118,8 @@ export function Layout357() {
                         and master key systems. We secure your assets.
                       </p>
                       <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-                        <Button title="Learn" href="/commercial-locksmith">
-                          Learn
+                        <Button title="Commercial Services" href="/commercial-locksmith">
+                          Commercial Services
                         </Button>
                       </div>
                     </div>
@@ -161,8 +161,8 @@ export function Layout357() {
                         We handle all types of safes with precision and care.
                       </p>
                       <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-                        <Button title="Learn" href="/safes">
-                          Learn
+                        <Button title="Safe Services" href="/safes">
+                          Safe Services
                         </Button>
                       </div>
                     </div>
