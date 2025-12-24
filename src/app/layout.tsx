@@ -4,6 +4,7 @@ import { Navbar } from "@/components/shared/Navbar";
 import { Footer } from "@/components/shared/Footer";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.panhandlekeyandsafe.com"),
   title: "Panhandle Key & Safe | Professional Locksmith Services",
   description: "Professional locksmith services for automotive, residential, and commercial needs in Panama City, Florida.",
   icons: {
