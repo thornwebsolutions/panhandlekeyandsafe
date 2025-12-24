@@ -15,7 +15,7 @@ export function Cta31() {
             for whatever you're facing.
           </p>
           <div className="mt-6 flex flex-wrap items-center justify-center gap-4 md:mt-8">
-            <Button title="Call Now" href="tel:+18505550147">Call Now</Button>
+            <Button title="Call Now" href="tel:+18507693030">Call Now</Button>
             <Button title="Email Us" variant="secondary-light" href="/contact">
               Email Us
             </Button>

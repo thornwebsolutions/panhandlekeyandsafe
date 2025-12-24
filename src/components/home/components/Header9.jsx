@@ -31,7 +31,7 @@ export function Header9() {
                 community with integrity
               </p>
               <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
-                <Button title="Call Now" href="tel:+18505550147">Call Now</Button>
+                <Button title="Call Now" href="tel:+18507693030">Call Now</Button>
                 <Button title="The Team" variant="secondary" href="/about">
                   The Team
                 </Button>

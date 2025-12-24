@@ -22,13 +22,13 @@ export function Footer() {
               <p className="mb-1 text-sm font-semibold text-brand-off-white">Contact</p>
               <a
                 href="tel:+18507693030"
-                className="block text-sm text-brand-red-light underline decoration-brand-red-light underline-offset-1 hover:text-brand-red"
+                className="block text-sm text-brand-red-light hover:text-brand-red"
               >
                 (850) 769-3030
               </a>
               <a
                 href="mailto:panhandlekey1@yahoo.com"
-                className="block text-sm text-brand-red-light underline decoration-brand-red-light underline-offset-1 hover:text-brand-red"
+                className="block text-sm text-brand-red-light hover:text-brand-red"
               >
                 panhandlekey1@yahoo.com
               </a>
@@ -40,36 +40,36 @@ export function Footer() {
           <div className="grid grid-cols-1 items-start gap-x-6 gap-y-10 md:grid-cols-2 md:gap-x-8 md:gap-y-4">
             <ul>
               <li className="py-2 text-sm font-semibold">
-                <a href="/about" className="text-brand-off-white hover:text-brand-red-light transition-colors">About</a>
+                <a href="/about" className="text-brand-off-white hover:text-brand-red transition-colors">About</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/automotive-locksmith" className="text-brand-off-white hover:text-brand-red-light transition-colors">Automotive</a>
+                <a href="/automotive-locksmith" className="text-brand-off-white hover:text-brand-red transition-colors">Automotive</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/residential-locksmith" className="text-brand-off-white hover:text-brand-red-light transition-colors">Residential</a>
+                <a href="/residential-locksmith" className="text-brand-off-white hover:text-brand-red transition-colors">Residential</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/commercial-locksmith" className="text-brand-off-white hover:text-brand-red-light transition-colors">Commercial</a>
+                <a href="/commercial-locksmith" className="text-brand-off-white hover:text-brand-red transition-colors">Commercial</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/safes" className="text-brand-off-white hover:text-brand-red-light transition-colors">Safes</a>
+                <a href="/safes" className="text-brand-off-white hover:text-brand-red transition-colors">Safes</a>
               </li>
             </ul>
             <ul>
               <li className="py-2 text-sm font-semibold">
-                <a href="/safes" className="text-brand-off-white hover:text-brand-red-light transition-colors">Safe services</a>
+                <a href="/safes" className="text-brand-off-white hover:text-brand-red transition-colors">Safe services</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/commercial-locksmith" className="text-brand-off-white hover:text-brand-red-light transition-colors">Master key systems</a>
+                <a href="/commercial-locksmith" className="text-brand-off-white hover:text-brand-red transition-colors">Master key systems</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/residential-locksmith" className="text-brand-off-white hover:text-brand-red-light transition-colors">Key duplication</a>
+                <a href="/residential-locksmith" className="text-brand-off-white hover:text-brand-red transition-colors">Key duplication</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/residential-locksmith" className="text-brand-off-white hover:text-brand-red-light transition-colors">Lock repair</a>
+                <a href="/residential-locksmith" className="text-brand-off-white hover:text-brand-red transition-colors">Lock repair</a>
               </li>
               <li className="py-2 text-sm font-semibold">
-                <a href="/contact" className="text-brand-off-white hover:text-brand-red-light transition-colors">Contact us</a>
+                <a href="/contact" className="text-brand-off-white hover:text-brand-red transition-colors">Contact us</a>
               </li>
             </ul>
           </div>

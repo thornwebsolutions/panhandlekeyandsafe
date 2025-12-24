@@ -57,13 +57,13 @@ export function Navbar() {
           <div className="flex flex-col items-center lg:flex-row">
             <a
               href="/"
-              className="relative block w-auto py-3 text-md text-brand-off-white hover:text-brand-red-light lg:inline-block lg:px-4 lg:py-6 lg:text-base"
+              className="relative block w-auto py-3 text-md text-brand-off-white hover:text-brand-red lg:inline-block lg:px-4 lg:py-6 lg:text-base"
             >
               Home
             </a>
             <a
               href="/about"
-              className="relative block w-auto py-3 text-md text-brand-off-white hover:text-brand-red-light lg:inline-block lg:px-4 lg:py-6 lg:text-base"
+              className="relative block w-auto py-3 text-md text-brand-off-white hover:text-brand-red lg:inline-block lg:px-4 lg:py-6 lg:text-base"
             >
               About
             </a>
@@ -72,7 +72,7 @@ export function Navbar() {
               onMouseLeave={useActive.closeOnDesktopDropdownMenu}
             >
               <button
-                className="relative flex w-full items-center justify-between whitespace-nowrap py-3 text-md text-brand-off-white hover:text-brand-red-light lg:w-auto lg:justify-start lg:gap-2 lg:px-4 lg:py-6 lg:text-base"
+                className="relative flex w-full items-center justify-between whitespace-nowrap py-3 text-md text-brand-off-white hover:text-brand-red lg:w-auto lg:justify-start lg:gap-2 lg:px-4 lg:py-6 lg:text-base"
                 onClick={useActive.openOnMobileDropdownMenu}
               >
                 <span>Services</span>
@@ -190,13 +190,13 @@ export function Navbar() {
             </div>
             <a
               href="/contact"
-              className="relative block w-auto py-3 text-md text-brand-off-white hover:text-brand-red-light lg:inline-block lg:px-4 lg:py-6 lg:text-base"
+              className="relative block w-auto py-3 text-md text-brand-off-white hover:text-brand-red lg:inline-block lg:px-4 lg:py-6 lg:text-base"
             >
               Contact
             </a>
           </div>
           <div className="hidden items-center gap-4 lg:flex">
-            <Button title="Call Now" size="sm">
+            <Button title="Call Now" size="sm" href="tel:+18507693030">
               Call Now
             </Button>
           </div>
