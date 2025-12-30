@@ -22,7 +22,7 @@ export function Layout4() {
                   Kimber Taylor
                 </h6>
                 <p className="text-brand-charcoal">
-                  Kimber grew up around the shop—her mother Judy started as bookkeeper back in 2002 when Kimber was just six years old. After Judy's passing in 2023, Kimber stepped into her role and, alongside Dallas, became co-owner at the end of 2025.
+                  Kimber grew up around the shop—her mother Judy started as bookkeeper back in 2002 when Kimber was just six years old. After Judy's passing in 2023, Kimber stepped into her role and, alongside Dallas, became owner at the end of 2025.
                 </p>
               </div>
               <div>
