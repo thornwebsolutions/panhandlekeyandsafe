@@ -14,7 +14,7 @@ export function Gallery7() {
           <div className="w-full col-start-1 col-end-2 row-start-1 row-end-3">
             <div className="relative size-full pt-[100%]">
               <img
-                src="/images/safes-4.webp"
+                src="/images/safe 1.jpg"
                 alt="Safe services"
                 className="absolute inset-0 size-full object-cover"
               />
@@ -23,7 +23,7 @@ export function Gallery7() {
           <div className="w-full">
             <div className="relative size-full pt-[56.25%]">
               <img
-                src="/images/safes.jpg"
+                src="/images/safe 3.jpg"
                 alt="Safe locksmith services"
                 className="absolute inset-0 size-full object-cover"
               />
@@ -32,7 +32,7 @@ export function Gallery7() {
           <div className="w-full">
             <div className="relative size-full pt-[56.25%]">
               <img
-                src="/images/safes-5.jpg"
+                src="/images/safe 4.jpg"
                 alt="Safe installation"
                 className="absolute inset-0 size-full object-cover"
               />

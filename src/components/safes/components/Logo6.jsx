@@ -13,13 +13,13 @@ export function Logo6() {
         </p>
         <div className="grid grid-cols-3 gap-2">
           <div className="flex w-full items-center justify-center bg-brand-light-blue px-4 py-6 md:py-8">
-            <span className="text-[1rem] font-bold text-brand-navy-dark md:text-2xl lg:text-3xl">HOLLON</span>
+            <img src="/images/hollon-logo.png" alt="Hollon Safes" className="h-12 w-auto object-contain md:h-16 lg:h-20" />
           </div>
           <div className="flex w-full items-center justify-center bg-brand-light-blue px-4 py-6 md:py-8">
-            <span className="text-[1rem] font-bold text-brand-navy-dark md:text-2xl lg:text-3xl">CHAMPION</span>
+            <img src="/images/Champion-Black.png" alt="Champion Safes" className="h-12 w-auto object-contain md:h-16 lg:h-20" />
           </div>
           <div className="flex w-full items-center justify-center bg-brand-light-blue px-4 py-6 md:py-8">
-            <span className="text-[1rem] font-bold text-brand-navy-dark md:text-2xl lg:text-3xl">LIBERTY</span>
+            <img src="/images/liberty.png" alt="Liberty Safe" className="h-12 w-auto object-contain md:h-16 lg:h-20" />
           </div>
         </div>
         <div className="mt-8 flex justify-center md:mt-10 lg:mt-12">

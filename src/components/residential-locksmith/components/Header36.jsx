@@ -24,7 +24,7 @@ export function Header36() {
       </div>
       <div>
         <img
-          src="/images/residential-2.jpg"
+          src="/images/new-residential.png"
           alt="Residential locksmith services"
           className="w-full object-cover lg:h-screen lg:max-h-[60rem]"
         />

@@ -8,9 +8,9 @@ export function Layout213() {
         <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-2 lg:gap-x-20">
           <div className="order-2 md:order-1">
             <img
-              src="/images/keyless.jpg"
+              src="/images/key wall 2.jpg"
               className="w-full object-cover"
-              alt="Keyless entry systems"
+              alt="Wall of keys"
             />
           </div>
           <div className="order-1 md:order-2">
@@ -22,12 +22,10 @@ export function Layout213() {
               />
             </div>
             <h2 className="mb-5 text-5xl font-bold text-brand-off-white md:mb-6 md:text-7xl lg:text-8xl">
-              Modern keyless entry for your home
+              Keys for every lock
             </h2>
             <p className="text-brand-off-white/80 md:text-md">
-              Smart locks eliminate fumbling for keys. We install keypad and
-              Bluetooth systems that work with your daily routine and keep your
-              home secure.
+              From standard house keys to high-security options, we cut and program keys for virtually any lock. Our wall of blanks means we likely have the key you need in stock and ready to go.
             </p>
             <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
               <Button title="Request Quote" href="/contact">

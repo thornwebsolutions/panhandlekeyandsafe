@@ -17,20 +17,20 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                alt="Team member"
+                src="/images/Tim and safe.jpg"
+                alt="Tim"
                 className="aspect-square size-full object-cover"
               />
             </div>
             <div className="flex flex-col justify-center">
               <div className="mb-3 md:mb-4">
                 <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
-                  James Cortez
+                  Tim
                 </h5>
-                <h6 className="text-brand-off-white/70 md:text-md">Automotive specialist</h6>
+                <h6 className="text-brand-off-white/70 md:text-md">Senior Locksmith</h6>
               </div>
               <p className="text-brand-off-white/80">
-                Certified in all major vehicle lock systems and key programming.
+                Tim has been part of the Panhandle Key team for over 25 years. A U.S. Air Force veteran, he brings discipline and precision to every job.
               </p>
             </div>
           </div>
@@ -38,20 +38,19 @@ export function Team16() {
             <div className="w-full overflow-hidden">
               <img
                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                alt="Team member"
+                alt="Chris"
                 className="aspect-square size-full object-cover"
               />
             </div>
             <div className="flex flex-col justify-center">
               <div className="mb-3 md:mb-4">
                 <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
-                  David Martinez
+                  Chris
                 </h5>
-                <h6 className="text-brand-off-white/70 md:text-md">Residential expert</h6>
+                <h6 className="text-brand-off-white/70 md:text-md">Senior Road Tech</h6>
               </div>
               <p className="text-brand-off-white/80">
-                Handles residential lockouts and installations with precision
-                and care.
+                Chris has served our customers on the road for over 20 years. His Navy background taught him how to get the job done right, no matter the situation.
               </p>
             </div>
           </div>
@@ -59,20 +58,19 @@ export function Team16() {
             <div className="w-full overflow-hidden">
               <img
                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                alt="Team member"
+                alt="Nick"
                 className="aspect-square size-full object-cover"
               />
             </div>
             <div className="flex flex-col justify-center">
               <div className="mb-3 md:mb-4">
                 <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
-                  Elena Vasquez
+                  Nick
                 </h5>
-                <h6 className="text-brand-off-white/70 md:text-md">Commercial lead</h6>
+                <h6 className="text-brand-off-white/70 md:text-md">Floater</h6>
               </div>
               <p className="text-brand-off-white/80">
-                Specializes in commercial security systems and access control
-                solutions.
+                Nick has been with us for over 14 years and wears a lot of hats—road tech, safe tech, and counter tech. He's our go-to guy for safe deliveries, relocations, and lock repairs.
               </p>
             </div>
           </div>
@@ -80,19 +78,59 @@ export function Team16() {
             <div className="w-full overflow-hidden">
               <img
                 src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-                alt="Team member"
+                alt="Travis"
                 className="aspect-square size-full object-cover"
               />
             </div>
             <div className="flex flex-col justify-center">
               <div className="mb-3 md:mb-4">
                 <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
-                  Robert Chen
+                  Travis
                 </h5>
-                <h6 className="text-brand-off-white/70 md:text-md">Safe technician</h6>
+                <h6 className="text-brand-off-white/70 md:text-md">Office Manager</h6>
               </div>
               <p className="text-brand-off-white/80">
-                Expert in safe opening, repair, and installation for all types.
+                Travis has been with us for over 14 years and brings 24 years of locksmith experience to the table. As office manager, he keeps our road techs running smoothly.
+              </p>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
+            <div className="w-full overflow-hidden">
+              <img
+                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                alt="Justin"
+                className="aspect-square size-full object-cover"
+              />
+            </div>
+            <div className="flex flex-col justify-center">
+              <div className="mb-3 md:mb-4">
+                <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
+                  Justin
+                </h5>
+                <h6 className="text-brand-off-white/70 md:text-md">Counter Tech</h6>
+              </div>
+              <p className="text-brand-off-white/80">
+                Justin is one of our newest team members, helping customers at the counter with all their lock and key needs.
+              </p>
+            </div>
+          </div>
+          <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
+            <div className="w-full overflow-hidden">
+              <img
+                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                alt="Kai"
+                className="aspect-square size-full object-cover"
+              />
+            </div>
+            <div className="flex flex-col justify-center">
+              <div className="mb-3 md:mb-4">
+                <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
+                  Kai
+                </h5>
+                <h6 className="text-brand-off-white/70 md:text-md">Counter Tech</h6>
+              </div>
+              <p className="text-brand-off-white/80">
+                Kai is one of our newest additions to the crew, learning the trade and assisting customers at the counter.
               </p>
             </div>
           </div>

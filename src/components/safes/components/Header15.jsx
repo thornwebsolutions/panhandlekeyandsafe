@@ -25,8 +25,8 @@ export function Header15() {
         </div>
         <div>
           <img
-            src="/images/safes-2.jpg"
-            className="w-full object-cover"
+            src="/images/safe 2.jpg"
+            className="w-full max-h-[400px] md:max-h-[500px] object-cover"
             alt="Safe services"
           />
         </div>

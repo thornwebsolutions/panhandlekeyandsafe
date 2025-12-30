@@ -19,18 +19,18 @@ export function Layout4() {
             <div className="grid grid-cols-1 gap-6 py-2 sm:grid-cols-2">
               <div>
                 <h6 className="mb-3 text-md font-bold leading-[1.4] text-brand-navy-dark md:mb-4 md:text-xl">
-                  Dallas Taylor
+                  Kimber Taylor
                 </h6>
                 <p className="text-brand-charcoal">
-                  Owner and master locksmith continuing a legacy of excellence.
+                  Kimber grew up around the shop—her mother Judy started as bookkeeper back in 2002 when Kimber was just six years old. After Judy's passing in 2023, Kimber stepped into her role and, alongside Dallas, became co-owner at the end of 2025.
                 </p>
               </div>
               <div>
                 <h6 className="mb-3 text-md font-bold leading-[1.4] text-brand-navy-dark md:mb-4 md:text-xl">
-                  Kimber Taylor
+                  Dallas Taylor
                 </h6>
                 <p className="text-brand-charcoal">
-                  Co-owner managing operations and customer relations.
+                  Dallas handles safe sales and moves, manages our social media, and works as a locksmith. Together with Kimber, they're continuing the legacy of Panhandle Key.
                 </p>
               </div>
             </div>
