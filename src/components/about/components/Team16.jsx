@@ -37,7 +37,7 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                src="/images/chris.webp"
                 alt="Chris"
                 className="aspect-square size-full object-cover"
               />
@@ -57,7 +57,7 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                src="/images/nick.jpg"
                 alt="Nick"
                 className="aspect-square size-full object-cover"
               />
@@ -77,7 +77,7 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                src="/images/travis.jpg"
                 alt="Travis"
                 className="aspect-square size-full object-cover"
               />
@@ -97,9 +97,9 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                src="/images/justin.jpg"
                 alt="Justin"
-                className="aspect-square size-full object-cover"
+                className="aspect-square size-full object-cover object-top"
               />
             </div>
             <div className="flex flex-col justify-center">
@@ -117,7 +117,7 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                src="/images/kai.webp"
                 alt="Kai"
                 className="aspect-square size-full object-cover"
               />
