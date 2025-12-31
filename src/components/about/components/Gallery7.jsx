@@ -17,7 +17,7 @@ export function Gallery7() {
           <div className="w-full">
             <div className="relative size-full pt-[56.25%]">
               <img
-                src="/images/old-2.webp"
+                src="/images/old-2.jpg"
                 alt="Early days of Panhandle Key"
                 className="absolute inset-0 size-full object-cover"
               />
