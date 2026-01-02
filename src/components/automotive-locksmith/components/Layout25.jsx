@@ -38,7 +38,7 @@ export function Layout25() {
             </div>
           </div>
           <img
-            src="/images/keys-2.jpg"
+            src="/images/key-cutter.png"
             className="w-full object-cover"
             alt="Key cutting services"
           />

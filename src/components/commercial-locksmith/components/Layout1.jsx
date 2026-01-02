@@ -24,7 +24,7 @@ export function Layout1() {
           </div>
           <div>
             <img
-              src="/images/master-key.jpg"
+              src="/images/access-control.png"
               className="w-full object-cover"
               alt="Master key systems"
             />
