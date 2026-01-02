@@ -125,7 +125,7 @@ export function Layout357() {
                     </div>
                     <div className="relative h-[25rem] w-full sm:h-[30rem] lg:h-[60vh]">
                       <Image
-                        src="/images/commercial.jpg"
+                        src="/images/key-cutter.png"
                         fill
                         className="object-cover"
                         alt="Commercial locksmith services"
