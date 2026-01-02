@@ -64,8 +64,8 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                "Called at 2 AM with a lockout and they arrived in twenty
-                minutes. No complaints, just gratitude."
+                "Locked out of my house and they were there within the hour.
+                Fair price, friendly service. Can't ask for more."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
