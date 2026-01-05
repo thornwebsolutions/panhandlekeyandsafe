@@ -22,14 +22,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                They arrived in twenty minutes and had us back inside without a
-                scratch on the door.
+                "Excellent service! Travis rekeyed our new house and did an awesome job! Great prompt and friendly service!"
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">Maria Santos</p>
-                <p className="text-brand-navy-light">Homeowner, Panama City</p>
+                <p className="font-semibold text-brand-navy-dark">Anna Touchton</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>
@@ -43,14 +42,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                Professional work, fair price, and they treated my home with
-                respect from start to finish.
+                "I have received exceptional service from Michael. He went far beyond his job to help me with my key. It's hard to find good employees like that."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">James Mitchell</p>
-                <p className="text-brand-navy-light">Homeowner, Panama City</p>
+                <p className="font-semibold text-brand-navy-dark">Holley Rice</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>
@@ -64,14 +62,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                I felt safe knowing someone reliable was handling my security
-                needs.
+                "The staff was very knowledgeable and efficient. Waiting time was minimum and price was very reasonable. They are 5 star on my keychain."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">Elena Rodriguez</p>
-                <p className="text-brand-navy-light">Homeowner, Panama City</p>
+                <p className="font-semibold text-brand-navy-dark">James Brewer</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>

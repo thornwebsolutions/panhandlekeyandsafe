@@ -10,7 +10,7 @@ export function Layout207() {
         <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-2 lg:gap-x-20">
           <div className="order-2 md:order-1 relative aspect-[4/3] w-full">
             <Image
-              src="/images/call.jpg"
+              src="/images/tim-front.jpg"
               fill
               className="object-cover"
               alt="Reliable locksmith service"

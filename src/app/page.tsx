@@ -7,6 +7,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Panhandle Key & Safe | Professional Locksmith Services",
     description: "Panhandle Key & Safe - Panama City's trusted locksmith since 1984. Car lockouts, home security, commercial locks & safes. Call (850) 769-3030.",
+    images: [
+      {
+        url: "/images/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Panhandle Key & Safe - Panama City Locksmith",
+      },
+    ],
   },
 };
 

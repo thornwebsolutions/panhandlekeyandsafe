@@ -11,7 +11,9 @@
       "Bash(npm run build:*)",
       "Bash(npm install:*)",
       "Bash(wc:*)",
-      "Bash(Get-ChildItem \"C:\\\\Users\\\\ChrisThorn\\\\source\\\\repos\\\\panhandlekeyandsafe\\\\public\\\\images\" -Filter \"*logo*\")"
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\ChrisThorn\\\\source\\\\repos\\\\panhandlekeyandsafe\\\\public\\\\images\" -Filter \"*logo*\")",
+      "WebFetch(domain:www.google.com)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

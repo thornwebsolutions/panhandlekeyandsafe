@@ -22,14 +22,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                They came fast, knew exactly what to do, and didn't waste time
-                talking about it.
+                "I stopped in to look at safes and was greeted by Karen. They have a large selection of nice safes to choose from. I will definitely recommend them to anyone."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">Marcus Webb</p>
-                <p className="text-brand-navy-light">Owner, retail store</p>
+                <p className="font-semibold text-brand-navy-dark">Steve S.</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>
@@ -43,14 +42,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                Professional work, fair pricing, and they showed up when they
-                said they would.
+                "They opened my safe! The dial lock messed up and they got the serial number to get the combo from the factory. Great service!"
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">Elena Rodriguez</p>
-                <p className="text-brand-navy-light">Manager, office building</p>
+                <p className="font-semibold text-brand-navy-dark">Harvey B.</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>
@@ -64,14 +62,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                Best locksmith service we've used in years, no complications,
-                just solid work.
+                "Fast and friendly service. Keys were made for me while I waited, very fast. Really happy with them."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">James Patterson</p>
-                <p className="text-brand-navy-light">Director, industrial facility</p>
+                <p className="font-semibold text-brand-navy-dark">Robert Owens</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>

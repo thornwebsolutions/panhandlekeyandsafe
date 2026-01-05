@@ -22,14 +22,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                They arrived in twenty minutes and had my car open without a
-                scratch.
+                "I was quoted $220 to $280 by several competitors to get a keyless remote replaced. I walked out with a new key and keyless remote for less than a fifth of the price!"
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">Marcus Webb</p>
-                <p className="text-brand-navy-light">Stranded driver, Panama City</p>
+                <p className="font-semibold text-brand-navy-dark">Kimberly H.</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>
@@ -43,14 +42,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                Professional, fast, and they didn't overcharge me like the other
-                places.
+                "Quick, courteous, save-the-day service. When my last remaining key bounced out of the ignition of my motorcycle at 55 mph, I thought I was in trouble but they helped."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">Elena Rodriguez</p>
-                <p className="text-brand-navy-light">Business owner, Panama City</p>
+                <p className="font-semibold text-brand-navy-dark">Michael</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>
@@ -64,13 +62,13 @@ export function Testimonial17() {
                 <BiSolidStar className="mr-1 size-6 text-brand-red" />
               </div>
               <blockquote className="text-brand-charcoal md:text-md">
-                Lost my only car key and they made a new one on the spot. Saved my whole day.
+                "I've been coming here for years. I used to have a lot of Over The Road trucks and would always come here to get all my spare keys. Their prices are very fair."
               </blockquote>
             </div>
             <div className="mt-5 flex w-full flex-col items-start md:mt-6 md:w-fit md:flex-row md:items-center">
               <div>
-                <p className="font-semibold text-brand-navy-dark">James Mitchell</p>
-                <p className="text-brand-navy-light">Truck driver, Panama City</p>
+                <p className="font-semibold text-brand-navy-dark">Wayne R.</p>
+                <p className="text-brand-navy-light">Google Review</p>
               </div>
             </div>
           </div>

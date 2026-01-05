@@ -7,6 +7,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Residential Locksmith | Panhandle Key & Safe",
     description: "Protect your home with Panhandle Key & Safe. Lock installation, rekeying, and emergency lockout services in Panama City, FL. Call (850) 769-3030.",
+    images: [
+      {
+        url: "/images/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Residential Locksmith Services - Panhandle Key & Safe",
+      },
+    ],
   },
 };
 
