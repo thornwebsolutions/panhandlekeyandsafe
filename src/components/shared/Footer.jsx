@@ -76,7 +76,7 @@ export function Footer() {
         </div>
         <div className="h-px w-full bg-brand-navy-light" />
         <div className="flex flex-col-reverse items-start justify-between pb-4 pt-6 text-sm md:flex-row md:items-center md:pb-0 md:pt-8">
-          <p className="mt-8 text-brand-off-white/70 md:mt-0">© 2024 Panhandle Key & Safe. All rights reserved.</p>
+          <p className="mt-8 text-brand-off-white/70 md:mt-0">© 2026 Panhandle Key & Safe. All rights reserved.</p>
           <a
             href="https://www.thornwebsolutions.com/"
             target="_blank"
