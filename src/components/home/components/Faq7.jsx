@@ -19,9 +19,10 @@ export function Faq7() {
               How fast do you respond?
             </h2>
             <p>
-              We average fifteen minutes from call to arrival across Panama
-              City. Our mobile units are positioned to reach you quickly, day or
-              night. Speed matters when you're locked out.
+              We typically respond within an hour, depending on your location.
+              Our service area covers Panama City, the west end of the beach,
+              Mexico Beach, Bay County, and surrounding areas. We'll get to you
+              as quickly as possible.
             </p>
           </div>
           <div>
@@ -29,9 +30,10 @@ export function Faq7() {
               Do you handle all vehicle types?
             </h2>
             <p>
-              Yes. Cars, trucks, motorcycles, RVs—we've worked on them all.
-              Whether it's a lockout, key replacement, or ignition repair, we
-              know what we're doing. No vehicle is too complicated.
+              We service most vehicles including cars, trucks, motorcycles, and
+              RVs. However, some newer vehicles require specialized programming
+              equipment that we may not support. Give us a call with your
+              vehicle details and we'll let you know if we can help.
             </p>
           </div>
           <div>
