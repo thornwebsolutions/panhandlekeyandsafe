@@ -15,7 +15,7 @@ export async function POST(request: Request) {
     }
 
     const { data, error } = await resend.emails.send({
-      from: 'Panhandle Key & Safe <onboarding@resend.dev>',
+      from: 'Panhandle Key & Safe <noreply@panhandlekeyandsafe.com>',
       to: ['panhandlekey1@yahoo.com'],
       subject: `New Contact Form Submission from ${firstName} ${lastName}`,
       html: `
