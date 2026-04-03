@@ -97,26 +97,6 @@ export function Team16() {
           <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
             <div className="w-full overflow-hidden">
               <img
-                src="/images/justin.jpg"
-                alt="Justin"
-                className="aspect-square size-full object-cover object-top"
-              />
-            </div>
-            <div className="flex flex-col justify-center">
-              <div className="mb-3 md:mb-4">
-                <h5 className="text-md font-semibold text-brand-off-white md:text-lg">
-                  Justin
-                </h5>
-                <h6 className="text-brand-off-white/70 md:text-md">Counter Tech</h6>
-              </div>
-              <p className="text-brand-off-white/80">
-                Justin is one of our newest team members, helping customers at the counter with all their lock and key needs.
-              </p>
-            </div>
-          </div>
-          <div className="grid grid-cols-1 items-start gap-5 sm:gap-y-6 md:grid-cols-2 md:gap-x-8">
-            <div className="w-full overflow-hidden">
-              <img
                 src="/images/kai.webp"
                 alt="Kai"
                 className="aspect-square size-full object-cover"
